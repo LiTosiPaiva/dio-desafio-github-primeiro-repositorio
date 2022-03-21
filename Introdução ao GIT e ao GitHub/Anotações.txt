@@ -1,0 +1,1 @@
+O Git Best é um terminal extendido para otimizar o Git
